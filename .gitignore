@@ -8,3 +8,6 @@
 Thumbs.db
 tags
 tegra/
+
+build/
+opencv2.framework
